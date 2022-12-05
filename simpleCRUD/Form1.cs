@@ -19,7 +19,12 @@ namespace simpleCRUD
 
         private void btnRead_Click(object sender, EventArgs e)
         {
-            lblSearch.Text = "Eres puto";
+            lblSearch.Text = "Eri' marikong el coño de tu hermana";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text ="The game :)";
         }
     }
 }
